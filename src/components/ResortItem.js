@@ -9,7 +9,7 @@ const Resortitem = (props) => {
       </a>
 
       <div className="resortContent">
-        <h3>{props.resort}</h3>
+        <h3>{props.title}</h3>
         <p>${props.price} per night</p>
       </div>
     </div>

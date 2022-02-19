@@ -1,0 +1,40 @@
+{
+  "resorts": [
+    {
+      "id": 1,
+      "title": "Toronto Lovers Island1",
+      "price": 80.0,
+      "image": "https://i.ibb.co/9H2XFv6/resort1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Toronto Lovers Island2",
+      "price": 900.0,
+      "image": "./assets/image/resort2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Toronto Lovers Island3",
+      "price": 1000.0,
+      "image": "./assets/image/resort3.webp"
+    },
+    {
+      "id": 4,
+      "title": "Montreal Lovers Island4",
+      "price": 1100.0,
+      "image": "./assets/image/resort4.webp"
+    },
+    {
+      "id": 5,
+      "title": "Montreal Lovers Island4",
+      "price": 1100.0,
+      "image": "./assets/image/resort4.webp"
+    },
+    {
+      "id": 6,
+      "title": "Montreal Lovers Island4",
+      "price": 1100.0,
+      "image": "./assets/image/resort4.webp"
+    }
+  ]
+}
